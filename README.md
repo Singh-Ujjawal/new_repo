@@ -1,4 +1,4 @@
 # new_repo
 MyFirst
 <br>
-Author -> Ujjawal Singh
+Author -> Ujjawal Singh(AIMT)
